@@ -61,7 +61,7 @@ namespace PresentacionTiendaGit
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(146, 130);
+            this.txtPrecio.Location = new System.Drawing.Point(146, 214);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(100, 20);
             this.txtPrecio.TabIndex = 34;
@@ -76,7 +76,7 @@ namespace PresentacionTiendaGit
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(143, 190);
+            this.label3.Location = new System.Drawing.Point(143, 122);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 13);
             this.label3.TabIndex = 32;
@@ -85,7 +85,7 @@ namespace PresentacionTiendaGit
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(143, 114);
+            this.label2.Location = new System.Drawing.Point(143, 198);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(40, 13);
             this.label2.TabIndex = 31;
@@ -102,7 +102,7 @@ namespace PresentacionTiendaGit
             // 
             // txtDescripcion
             // 
-            this.txtDescripcion.Location = new System.Drawing.Point(146, 206);
+            this.txtDescripcion.Location = new System.Drawing.Point(146, 138);
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(100, 20);
             this.txtDescripcion.TabIndex = 38;

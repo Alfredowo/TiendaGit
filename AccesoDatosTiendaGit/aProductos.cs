@@ -20,7 +20,7 @@ namespace AccesoDatosTiendaGit
 
         public void Guardar(Productos Entidad)
         {
-            b.Comando(string.Format("insert into producto({0}, '{1}', '{2}', {3});",
+            b.Comando(string.Format("CALL insertarproductos({0}, '{1}', '{2}', {3});",
                 Entidad.Id, Entidad.Nombre, Entidad.Descripcion, Entidad.Precio));
         }
 
