@@ -1,0 +1,16 @@
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\ManejadorTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\ManejadorTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\AccesoDatosTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\ConectarBd.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\Crud.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\EntidadesTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\MySql.Data.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\AccesoDatosTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\EntidadesTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\ConectarBd.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\bin\Debug\Crud.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\obj\Debug\ManejadorTiendaGit.csproj.AssemblyReference.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\obj\Debug\ManejadorTiendaGit.csproj.CoreCompileInputs.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\obj\Debug\ManejadorTiendaGit.csproj.CopyComplete
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\obj\Debug\ManejadorTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\ManejadorTiendaGit\obj\Debug\ManejadorTiendaGit.pdb

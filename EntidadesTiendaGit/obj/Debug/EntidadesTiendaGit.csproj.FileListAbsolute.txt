@@ -1,0 +1,6 @@
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\bin\Debug\EntidadesTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\bin\Debug\EntidadesTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\obj\Debug\EntidadesTiendaGit.csproj.AssemblyReference.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\obj\Debug\EntidadesTiendaGit.csproj.CoreCompileInputs.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\obj\Debug\EntidadesTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\EntidadesTiendaGit\obj\Debug\EntidadesTiendaGit.pdb

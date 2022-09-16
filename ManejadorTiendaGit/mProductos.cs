@@ -40,7 +40,7 @@ namespace ManejadorTiendaGit
         {
             tabla.Columns.Clear();
             tabla.RowTemplate.Height = 30;
-            tabla.DataSource = a.Mostrar().Tables["productos"];
+            tabla.DataSource = a.Mostrar().Tables["producto"];
             tabla.Columns.Insert(4, g.Boton("Editar", Color.SpringGreen));
             tabla.Columns.Insert(5, g.Boton("Borrar", Color.Salmon));
             tabla.Columns[0].Visible = false;

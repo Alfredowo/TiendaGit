@@ -1,0 +1,12 @@
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\AccesoDatosTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\AccesoDatosTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\ConectarBd.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\EntidadesTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\MySql.Data.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\EntidadesTiendaGit.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\bin\Debug\ConectarBd.pdb
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\obj\Debug\AccesoDatosTiendaGit.csproj.AssemblyReference.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\obj\Debug\AccesoDatosTiendaGit.csproj.CoreCompileInputs.cache
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\obj\Debug\AccesoDatosTiendaGit.csproj.CopyComplete
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\obj\Debug\AccesoDatosTiendaGit.dll
+C:\Users\musul\OneDrive\Escritorio\Tienda Git\AccesoDatosTiendaGit\obj\Debug\AccesoDatosTiendaGit.pdb

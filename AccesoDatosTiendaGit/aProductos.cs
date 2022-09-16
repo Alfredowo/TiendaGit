@@ -14,20 +14,20 @@ namespace AccesoDatosTiendaGit
         Base b = new Base("localhost", "root", "", "tiendagit", 3306);
         public void Borrar(Productos Entidad)
         {
-            b.Comando(string.Format("delete from productos where id = {0}",
+            b.Comando(string.Format("delete from producto where id = {0}",
                 Entidad.Id));
         }
 
         public void Guardar(Productos Entidad)
         {
-            b.Comando(string.Format("insert into productos({0}, '{1}', '{2}', {3});",
+            b.Comando(string.Format("insert into producto({0}, '{1}', '{2}', {3});",
                 Entidad.Id, Entidad.Nombre, Entidad.Descripcion, Entidad.Precio));
         }
 
         public DataSet Mostrar()
         {
             return b.Obtener
-                (string.Format("SELECT * FROM productos"), "productos");
+                (string.Format("SELECT * FROM producto"), "producto");
         }
     }
 }
