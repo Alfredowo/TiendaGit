@@ -47,6 +47,7 @@ namespace PresentacionTiendaGit
             this.btnRegresar.TabIndex = 37;
             this.btnRegresar.Text = "Regresar";
             this.btnRegresar.UseVisualStyleBackColor = true;
+            this.btnRegresar.Click += new System.EventHandler(this.btnRegresar_Click_1);
             // 
             // btnGuardar
             // 
@@ -56,6 +57,7 @@ namespace PresentacionTiendaGit
             this.btnGuardar.TabIndex = 35;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click_1);
             // 
             // txtPrecio
             // 
