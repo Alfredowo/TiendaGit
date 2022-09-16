@@ -45,6 +45,7 @@ namespace PresentacionTiendaGit
             this.btnAgregar.TabIndex = 32;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnRegresar
             // 
@@ -54,6 +55,7 @@ namespace PresentacionTiendaGit
             this.btnRegresar.TabIndex = 31;
             this.btnRegresar.Text = "Regresar";
             this.btnRegresar.UseVisualStyleBackColor = true;
+            this.btnRegresar.Click += new System.EventHandler(this.btnRegresar_Click);
             // 
             // dtg
             // 
@@ -62,6 +64,8 @@ namespace PresentacionTiendaGit
             this.dtg.Name = "dtg";
             this.dtg.Size = new System.Drawing.Size(714, 282);
             this.dtg.TabIndex = 30;
+            this.dtg.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtg_CellClick);
+            this.dtg.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtg_CellEnter);
             // 
             // txtBuscar
             // 
@@ -92,6 +96,7 @@ namespace PresentacionTiendaGit
             this.Controls.Add(this.label4);
             this.Name = "frmProductos";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.frmProductos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtg)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
