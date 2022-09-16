@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PresentacionTiendaGit
 {
-    public partial class Form1 : Form
+    public partial class frmProductos : Form
     {
-        public Form1()
+        public frmProductos()
         {
             InitializeComponent();
         }

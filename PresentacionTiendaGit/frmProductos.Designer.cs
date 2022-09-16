@@ -1,7 +1,7 @@
 ﻿
 namespace PresentacionTiendaGit
 {
-    partial class Form1
+    partial class frmProductos
     {
         /// <summary>
         /// Variable del diseñador necesaria.
