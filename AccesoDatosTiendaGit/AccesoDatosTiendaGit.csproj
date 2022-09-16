@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ConectarBd">
+      <HintPath>..\..\..\..\source\repos\ConectarBd\bin\Debug\ConectarBd.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,6 +46,12 @@
   <ItemGroup>
     <Compile Include="aProductos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntidadesTiendaGit\EntidadesTiendaGit.csproj">
+      <Project>{9f76fb27-7601-4d55-839a-6f3ee09fdeb4}</Project>
+      <Name>EntidadesTiendaGit</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
